@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: blueviolet;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+p{
+    border: 2px solid black;
+    color: gold;
+}
